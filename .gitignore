@@ -1,0 +1,3 @@
+.DS_Store
+code/spark-cluster/hadoop-data/
+__pycache__/
